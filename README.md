@@ -1,5 +1,5 @@
 # Once-upon-a-time-in-Katrineholm
-This is a major game project that was done during a course in school. We were a total of 9 people who participated in this project.
+This is a game project that was done during a course in school. We were a total of 9 people who participated in this project.
 
 ## Game
 Created using our own game engine, with DirectX 11. The game takes place in a forest where the player must follow the road in order to get to the end. The house will follow the road as long as the player is in radius, otherwise the house will stand still. The player will encounter obstacles, as well as enemies that will stop the player from getting to the end. 
